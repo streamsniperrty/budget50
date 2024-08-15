@@ -1,6 +1,7 @@
 # Budget50
-#### Video Demo:
-#### Description: Budget50 is a Python program designed to help users manage their finances by providing various budgeting tools. It allows you to:
+![image](logo.png)
+
+Budget50 is a Python program designed to help users manage their finances by providing various budgeting tools. It allows you to:
 - Calculate your paycheck distribution using the 50/30/20 rule.
 - Estimate the time required to achieve long-term savings goals.
 - View and update your asset amounts.
